@@ -11745,7 +11745,7 @@ body{
 }
 
 #image {
-  height: 100vh;
+  height: 100%;
   background-size: cover !important;
   background-repeat: no-repeat !important;
 }
