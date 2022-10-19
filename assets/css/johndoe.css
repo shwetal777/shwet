@@ -11695,7 +11695,7 @@ body{
 }
 
 #toTopBtn {
-  scroll-behavior: smooth;
+  scroll-behavior: auto;
   position: fixed;
   bottom: 16px;
   right:32px;
